@@ -100,7 +100,6 @@
 	<div id="content_wrapper">
 		<!-- Content Box -->
 		<div class="box">
-			<!-- Error 404 Page -->
 			Content Goes Here...
 		</div>
 	</div>
